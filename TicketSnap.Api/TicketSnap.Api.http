@@ -1,0 +1,6 @@
+@TicketSnap.Api_HostAddress = http://localhost:5246
+
+GET {{TicketSnap.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
